@@ -1,0 +1,60 @@
+	
+/* Must be in alphabetical order */
+/*******************************TAG SELECTORS*******************************/
+
+	body {
+			background-color: teal;
+			font-family: serif;
+			color: #2B3D5B;
+
+ 			overflow-y: scroll; /* Show vertical scrollbar */
+  			overflow-x: scroll; /* Show horizontal scrollbar */
+
+	}
+
+	nav {
+
+    position: relative;
+
+    background-color: #7777777; /*Whatever color you want goes here, but in Hexadecimal form*/
+	
+	}
+
+	nav {
+
+    position: relative;
+
+    background-color: #7777777; /*Whatever color you want goes here, but in Hexadecimal form*/
+    color: #1122cc; /*The color of your font also goes here, but in hexadecimal form*/
+	
+	}
+
+	h1 { 
+		color: black;
+	}
+
+	h2 {
+		color: white;
+	}
+
+	h3 {
+
+		color: white;
+	}
+
+	hr {
+			background-color: white;
+			
+	}
+
+	p {
+		color: white;
+	}
+/*******************************CLASS SELECTORS*******************************/
+
+.hobbies-picture {
+	height: 100px;
+	width: 100px;
+}
+
+/*******************************ID SELECTORS*******************************/
